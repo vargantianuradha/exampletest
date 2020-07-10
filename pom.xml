@@ -18,9 +18,9 @@
 	</dependencies>
 	<properties>
     <jenkins.e2eTests.reportsDirectory>target/protractor-reports</jenkins.e2eTests.reportsDirectory>
-</properties>
+#</properties>
 
- <properties>
+ #<properties>
     <cucumber.version>1.2.5</cucumber.version>
     <java.version>8</java.version>
   </properties>
